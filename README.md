@@ -65,4 +65,6 @@ yarn proxy
 
 ### Help
 
+More instructions on using [Netlify CMS](https://www.netlifycms.org/docs/gatsby/)
+
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
